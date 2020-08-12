@@ -1,0 +1,8 @@
+{
+    "cpp.buildConfigurations": [
+        {
+            "name": "abc.cpp",
+            "directory": "/build"
+        }
+    ]
+}
